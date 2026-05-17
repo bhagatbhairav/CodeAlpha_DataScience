@@ -1,2 +1,24 @@
-# CodeAlpha_DataScience
-Data Science Internship Projects - CodeAlpha
+# CodeAlpha Data Science Internship
+
+## Intern: Bhairav Subhash Bhagat
+## College: WCEM Nagpur
+## Duration: May 2026 - June 2026
+
+---
+
+## Tasks Completed:
+
+### Task 2 - Unemployment Analysis
+- Analyzed unemployment rate data (2016-2022)
+- Identified COVID-19 impact on unemployment
+- Created Line Chart and Bar Chart visualizations
+- Tools: Python, Pandas, Matplotlib
+
+---
+
+## Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+- GitHub
