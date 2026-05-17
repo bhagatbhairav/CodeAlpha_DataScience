@@ -27,3 +27,8 @@
 - Built Linear Regression model
 - Model Accuracy: 66.3%
 - Tools: Python, Pandas, Sklearn, Matplotlib
+### Task 1 - Iris Flower Classification
+- Classified 3 iris species
+- Used Decision Tree Classifier
+- Model Accuracy: 100%
+- Tools: Python, Sklearn, Matplotlib
