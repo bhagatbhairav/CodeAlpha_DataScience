@@ -22,3 +22,8 @@
 - Matplotlib
 - Google Colab
 - GitHub
+### Task 4 - Sales Prediction
+- Predicted sales based on TV Ad Budget
+- Built Linear Regression model
+- Model Accuracy: 66.3%
+- Tools: Python, Pandas, Sklearn, Matplotlib
