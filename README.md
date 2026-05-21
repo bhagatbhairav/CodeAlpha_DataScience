@@ -1,4 +1,4 @@
-# CodeAlpha Data Science Internship
+# CodeAlpha 
 
 ## Intern: Bhairav Subhash Bhagat
 ## College: WCEM Nagpur
